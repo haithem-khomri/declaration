@@ -26,6 +26,7 @@ function App() {
     <>
     <div className="container">
       <img src="/declaration/logo.jpg" alt="" />
+      <h1>TINA mm hna khmmt fik thaniiii ou hbitkkkkkk </h1>
       <h1>Do u Love Me BchBouch ? </h1>
       <div className="buttons">
         <button onClick={()=>YesHandler()} className='Yes'>Yes</button>
